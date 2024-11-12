@@ -23,5 +23,7 @@
 
    ```xml
     <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level [traceId=%X{traceId}] %logger{36} - %msg%n"/>
-   # pattern add [traceId=%X{traceId}] 
+   # pattern add [traceId=%X{traceId}] Í
    ```
+
+Í
